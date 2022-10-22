@@ -3,7 +3,7 @@
 </script>
 
 <h1>Home</h1>
-<p>Deployed to GitHub Pages</p>
+<p>works !</p>
 <p>
   Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
 </p>
