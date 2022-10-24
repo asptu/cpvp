@@ -51,17 +51,17 @@
 
 @font-face {
   font-family: 'THICCBOI-ExtraBold';
-  src: URL('src/assets/fonts/THICCCBOI-ExtraBold.ttf') format('truetype');
+  src: URL('/cpvp/fonts/THICCCBOI-ExtraBold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'THICCBOI-Thin';
-  src: URL('src/assets/fonts/THICCCBOI-Thin.ttf') format('truetype');
+  src: URL('/cpvp/fonts/THICCCBOI-Thin.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Makcex';
-  src: URL('src/assets/fonts/Makcex.otf') format('truetype');
+  src: URL('/cpvp/fonts/Makcex.otf') format('truetype');
 }
 
 
