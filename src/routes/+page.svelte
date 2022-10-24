@@ -10,9 +10,8 @@
 </div>
 
 <video class='bg' width="1280" height="720" muted="muted" loop="loop" autoplay="autoplay">
-  <source type="video/mp4" src="/cpvp/footage/h264.mp4">
+  <source type="video/mp4" src="{base}/footage/h264.mp4">
 </video>
-
 
 <style>
 
@@ -25,7 +24,6 @@
     z-index: -1;
     filter: brightness(20%);
 }
-
 
 .title-l1 {
   font-size: 900%;
@@ -48,22 +46,6 @@
   padding-left: 45%;
   font-family: 'Makcex';
 }
-
-@font-face {
-  font-family: 'THICCBOI-ExtraBold';
-  src: URL('/cpvp/fonts/THICCCBOI-ExtraBold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'THICCBOI-Thin';
-  src: URL('/cpvp/fonts/THICCCBOI-Thin.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Makcex';
-  src: URL('/cpvp/fonts/Makcex.otf') format('truetype');
-}
-
 
 
 </style>

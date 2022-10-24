@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'THICCBOI-ExtraBold';
+    src: URL('THICCCBOI-ExtraBold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'THICCBOI-Thin';
+    src: URL('THICCCBOI-Thin.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Makcex';
+    src: URL('Makcex.otf') format('truetype');
+  }
