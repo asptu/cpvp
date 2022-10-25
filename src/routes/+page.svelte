@@ -11,12 +11,15 @@ import { base } from "$app/paths";
                 <source src="{base}/footage/optimise.webm" type="video/webm" />
             </video>
         </div>
+
         <div class="header-overlay"></div>
         <div class="header-content">
             <div class='title-l1'>CRYSTAL PVP</div>
             <div class='title-l2'>explained like a</div>
             <div class='title-l3'>Fighting Game</div>
         </div>
+
+
     </header>
 
     <section class='section filler-bar'>
@@ -44,8 +47,7 @@ body {
     display: flex;
 }
 
-/* .container {
-} */
+
 
 .fullscreen-video-wrap {
     position: absolute;
@@ -77,7 +79,12 @@ body {
 .header-content {
     z-index: 2;
     width: 100%;
-    padding-right: 100px;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    /* border: 5px solid #FFFF00; */
+
 }
 
 
@@ -89,23 +96,23 @@ body {
 .title-l1 {
   font-size: 900%;
   color: #ea5180;
-  padding-left: 25%;
-  padding-top: 15%;
   font-family: 'THICCBOI-ExtraBold';
+  padding-right: 10%;
 }
 
 .title-l2 {
   font-size: 500%;
   color: #ffffff;
-  padding-left: 34.5%;
+
   font-family: 'THICCBOI-Thin';
 }
 
 .title-l3 {
   font-size: 1200%;
   color: #e03333;
-  padding-left: 41%;
   font-family: 'Makcex';
+  padding-left: 10%;
+
 }
 
 
